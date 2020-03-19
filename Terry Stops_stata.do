@@ -1,0 +1,5 @@
+destring, replace
+reg arrested frisked weapon officerage officermale subjectmale officerblack officerwhite officerhispanic officerasian officernative officermultiracial officerpacislander subjectblack subjectwhite subjecthispanic subjectasian subjectnative subjectmultiracial subjectpacislander
+reg frisked weapon officerage officermale subjectmale officerblack officerwhite officerhispanic officerasian officernative officermultiracial officerpacislander subjectblack subjectwhite subjecthispanic subjectasian subjectnative subjectmultiracial subjectpacislander
+
+
