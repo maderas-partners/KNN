@@ -1,2 +1,2 @@
 # KNN
-A sampe K-Nearest Neighbors model using Seattle Police Dept data
+A sample K-Nearest Neighbors model using data from the Seattle Police Dept
